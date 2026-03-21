@@ -6,10 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=550&lines=Java+%7C+C%23+%7C+TypeScript+Developer;Spring+Boot+%7C+ASP.NET+Core+%7C+NestJS;React+%7C+Next.js+%7C+Full-Stack+Web;Open+to+Internship+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=8b5cf6&style=for-the-badge)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abir-ghosh16)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abir20021116@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abir-Ghosh16)
+[![Profile Views](https://komarev.com/ghpvc/?username=Abir-Ghosh16&label=Profile+Views&color=8b5cf6&style=for-the-badge)](https://github.com/Abir-Ghosh16)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-🎓 &nbsp;**[Your University Name]** — B.Sc. in Computer Science & Engineering
+🎓 &nbsp;**American International Univercity Bangladesh** — B.Sc. in Computer Science & Engineering
 
 🏗️ &nbsp;I love building **backend systems** with clean, layered architecture
 
@@ -31,9 +31,7 @@
 
 🌍 &nbsp;Based in **Bangladesh**
 
-📬 &nbsp;Reach me → **your.email@gmail.com**
-
-⚡ &nbsp;Fun fact — I debug best with a cup of tea ☕
+📬 &nbsp;Reach me → **abir20021116@gmail.com**
 
 <br clear="right"/>
 
@@ -136,25 +134,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abir-Ghosh16&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Ghosh16&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> -->
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=Abir-Ghosh16&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&area=true" width="94%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abir-Ghosh16&theme=tokyo-night&hide_border=true&area=true" width="94%" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%" />
-</div>
+
+<!-- <div align="center">
+  <img src="https://github-profile-trophy-git-master-rjz3.vercel.app/?username=Abir-Ghosh16&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div> -->
 
 ---
 
