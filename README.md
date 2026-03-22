@@ -80,7 +80,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 EduWave — LMS Backend</h3>
+      <h3>🎓 Eduwave SAAS Learning platform Backend</h3>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
@@ -88,12 +88,12 @@
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
       <p>Backend REST API for a SaaS Learning Management System with JWT authentication, Role-Based Access Control (Admin, Instructor, Learner), and a modular NestJS architecture. Supports course & user management with file upload.</p>
-      <a href="https://github.com/your-username/eduwave-saas-learning-platform-backend">
+      <a href="https://github.com/Abir-Ghosh16/eduwave-saas-learning-platform-backend">
         <img src="https://img.shields.io/badge/View_Backend_Repo-%23181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 EduWave — LMS Frontend</h3>
+      <h3>🌐 EduWave SAAS Learning Platform Fontend</h3>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -101,7 +101,7 @@
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
       <p>Frontend web application for the EduWave LMS platform built with Next.js and TypeScript. Integrates with the EduWave backend API, providing dashboards for Admin, Instructor, and Learner roles. Currently in active development.</p>
-      <a href="https://github.com/your-username/eduwave-saas-learning-platform-frontend">
+      <a href="https://github.com/Abir-Ghosh16/eduwave-saas-learning-platform-frontend">
         <img src="https://img.shields.io/badge/View_Frontend_Repo-%23181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
@@ -115,12 +115,12 @@
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
       </p>
       <p>Backend REST API for meal planning & nutrition tracking built on 3-layer architecture — PresentationAPI → BLL → DAL — with Entity Framework Core.</p>
-      <a href="https://github.com/your-username/Smart-Meal-Planner-System">
+      <a href="https://github.com/Abir-Ghosh16/Smart-Meal-Planner-System">
         <img src="https://img.shields.io/badge/View_Repo-%23181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🍱 BuffetEase — Buffet Booking System</h3>
+      <h3>🍱 BuffetEase — Buffet Booking System </h3>
       <p>
         <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -128,7 +128,7 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
       <p>Spring Boot Web API for managing restaurant buffet bookings. Features JWT-based security with ADMIN/CUSTOMER roles, buffet package & schedule management, booking lifecycle, and optional payment tracking.</p>
-      <a href="https://github.com/your-username/BuffetEase-Buffet-Booking-System-Backend">
+      <a href="https://github.com/Abir-Ghosh16/BuffetEase-Buffet-Booking-System-Backend">
         <img src="https://img.shields.io/badge/View_Repo-%23181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
@@ -143,7 +143,7 @@
         <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
       </p>
       <p>A web platform connecting students with freelance tutors. Students can browse tutors by subject expertise, while tutors can discover students seeking help. Built with PHP MVC architecture, session-based auth, bcrypt password hashing, and full CRUD profile management. 🚧 Ongoing.</p>
-      <a href="https://github.com/your-username/FreelanceTutor">
+      <a href="https://github.com/Abir-Ghosh16/FreelanceTutor">
         <img src="https://img.shields.io/badge/View_Repo-%23181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
@@ -184,20 +184,20 @@
   <img src="https://github-profile-trophy-git-master-rjz3.vercel.app/?username=Abir-Ghosh16&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div> -->
 
----
 
-## 🎯 Currently
 
-<div align="center">
+
+
+<!-- <div align="center">
 
 | 📖 Studying | 🔨 Building | 🌱 Deepening | 💼 Open To |
 |:-----------:|:-----------:|:------------:|:----------:|
 | System Design & Clean Architecture | Full-stack apps with Next.js + NestJS | Spring Boot & Java backend patterns | Backend / Full-Stack Internship |
 | Microservices patterns | REST API best practices | .NET ecosystem | Open-source collaboration |
 
-</div>
+</div> -->
 
----
+
 
 <div align="center">
 
