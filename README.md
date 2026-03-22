@@ -38,28 +38,31 @@
 ---
 
 ## 🛠️ Tech Stack
-
+ 
 <div align="center">
-
+ 
 <table>
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="45"/><br/>Java</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cs" width="45"/><br/>C#</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br/>TypeScript</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45"/><br/>JavaScript</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="45"/><br/>PHP</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="45"/><br/>HTML5</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="45"/><br/>CSS3</td>
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring" width="45"/><br/>Spring Boot</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="45"/><br/>ASP.NET Core</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dotnet" width="45"/><br/>ASP.NET</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nestjs" width="45"/><br/>NestJS</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45"/><br/>React</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br/>Next.js</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br/>Tailwind</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br/>PostgreSQL</td>
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/>MySQL</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mssql" width="45"/><br/>SQL Server</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="45"/><br/>Git</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="45"/><br/>GitHub</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br/>Postman</td>
@@ -67,14 +70,42 @@
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br/>VS Code</td>
   </tr>
 </table>
-
+ 
 </div>
-
+ 
 ---
 
 ## 🚀 Featured Projects
-
+ 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 EduWave — LMS Backend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <p>Backend REST API for a SaaS Learning Management System with JWT authentication, Role-Based Access Control (Admin, Instructor, Learner), and a modular NestJS architecture. Supports course & user management with file upload.</p>
+      <a href="https://github.com/your-username/eduwave-saas-learning-platform-backend">
+        <img src="https://img.shields.io/badge/View_Backend_Repo-%23181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 EduWave — LMS Frontend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p>Frontend web application for the EduWave LMS platform built with Next.js and TypeScript. Integrates with the EduWave backend API, providing dashboards for Admin, Instructor, and Learner roles. Currently in active development.</p>
+      <a href="https://github.com/your-username/eduwave-saas-learning-platform-frontend">
+        <img src="https://img.shields.io/badge/View_Frontend_Repo-%23181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🍽️ Smart Meal Planner System</h3>
@@ -84,52 +115,51 @@
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
       </p>
       <p>Backend REST API for meal planning & nutrition tracking built on 3-layer architecture — PresentationAPI → BLL → DAL — with Entity Framework Core.</p>
-      <a href="https://github.com/your-github-username/Smart-Meal-Planner-System">
+      <a href="https://github.com/your-username/Smart-Meal-Planner-System">
         <img src="https://img.shields.io/badge/View_Repo-%23181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 SmartHome Device Manager</h3>
+      <h3>🍱 BuffetEase — Buffet Booking System</h3>
       <p>
         <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Multithreading-6DB33F?style=flat-square" />
-        <img src="https://img.shields.io/badge/Generics-8b5cf6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <p>IoT smart home simulation using advanced Java — generics, custom annotations, static & non-static nested classes, and concurrent device management with threads.</p>
-      <a href="https://github.com/your-github-username/smarthome-device-manager-java">
+      <p>Spring Boot Web API for managing restaurant buffet bookings. Features JWT-based security with ADMIN/CUSTOMER roles, buffet package & schedule management, booking lifecycle, and optional payment tracking.</p>
+      <a href="https://github.com/your-username/BuffetEase-Buffet-Booking-System-Backend">
         <img src="https://img.shields.io/badge/View_Repo-%23181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📅 Employee Leave Management</h3>
+      <h3>📚 FreelanceTutor — Tutor Connection Platform</h3>
       <p>
-        <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java_Date_API-007396?style=flat-square" />
-        <img src="https://img.shields.io/badge/OOP-E0234E?style=flat-square" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVC-Architecture-8b5cf6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
       </p>
-      <p>HR leave system with pro-rated entitlement calculation by joining date, abstract class hierarchy, generics, and an interactive console I/O flow.</p>
-      <a href="https://github.com/your-github-username/employee-leave-management-java">
+      <p>A web platform connecting students with freelance tutors. Students can browse tutors by subject expertise, while tutors can discover students seeking help. Built with PHP MVC architecture, session-based auth, bcrypt password hashing, and full CRUD profile management. 🚧 Ongoing.</p>
+      <a href="https://github.com/your-username/FreelanceTutor">
         <img src="https://img.shields.io/badge/View_Repo-%23181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Computer Networks Lab</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-        <img src="https://img.shields.io/badge/EIGRP-00ADEF?style=flat-square" />
-        <img src="https://img.shields.io/badge/VLSM-43B02A?style=flat-square" />
-      </p>
-      <p>5 Cisco Packet Tracer labs covering subnetting, EIGRP dynamic routing, VLSM multi-site topology design, and simulation mode ICMP packet analysis.</p>
-      <a href="https://github.com/your-github-username/computer-networks-lab">
-        <img src="https://img.shields.io/badge/View_Repo-%23181717?style=flat-square&logo=github&logoColor=white" />
+      <!-- Reserved for future project -->
+      <h3>🔭 More Coming Soon...</h3>
+      <p>Currently working on expanding my portfolio with new full-stack projects using <strong>Spring Boot</strong>, <strong>NestJS</strong>, and <strong>Next.js</strong>.</p>
+      <a href="https://github.com/Abir-Ghosh16">
+        <img src="https://img.shields.io/badge/View_All_Repos-%23181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
-
+ 
 ---
+
 
 ## 📊 GitHub Stats
 
