@@ -151,7 +151,7 @@
       <!-- Reserved for future project -->
       <h3>🔭 More Coming Soon...</h3>
       <p>Currently working on expanding my portfolio with new full-stack projects using <strong>Spring Boot</strong>, <strong>NestJS</strong>, and <strong>Next.js</strong>.</p>
-      <a href="https://github.com/Abir-Ghosh16">
+      <a href="https://github.com/Abir-Ghosh16?tab=repositories">
         <img src="https://img.shields.io/badge/View_All_Repos-%23181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
